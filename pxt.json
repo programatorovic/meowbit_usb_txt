@@ -1,0 +1,11 @@
+{
+  "name": "USBSerial",
+  "version": "0.0.1",
+  "description": "Extension for USB serial communication",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ]
+}
